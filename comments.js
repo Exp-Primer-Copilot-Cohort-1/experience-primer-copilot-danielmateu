@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // 1. get request from client
 // 2. read file
 // 3. write file
